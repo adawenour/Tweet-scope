@@ -1,4 +1,4 @@
 Tweet-scope
 ===========
 
-meta search app for tweets
+Meta Search Applications for tweets based off of keywords. Using twitter's API to retrieve the resuts. 
