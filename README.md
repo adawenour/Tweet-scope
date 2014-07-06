@@ -52,7 +52,7 @@ Cache pages that receive params.
 
 Production databases and pg extras.
 
-rRn queries on your database and set replications.
+Run queries on your database and set replications.
 
 Improving query times on production databases.
 
