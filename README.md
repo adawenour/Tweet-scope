@@ -5,7 +5,8 @@ Meta Search Applications for tweets based off of keywords. Using twitter's API t
 
 Will also be implementing and covering more adanvce infrastructure/devops concerns while in the process of developing the application in production such as..
 
-Deployment.
+Deployment
+===========
 
 Team management with Git workflow.
 
