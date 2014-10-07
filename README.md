@@ -45,6 +45,8 @@ Optimizations
 
 Identifying bottlenecks at scale.
 
+CONFIG VARIABLES FOR SENSITIVE INFORMATION.
+
 Implement memcachier to support more traffic.
 
 Load testing your app.
